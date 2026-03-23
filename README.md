@@ -35,7 +35,7 @@ https://github.com/maune-tut/iyf-s10-week-04-maune-tut
 
 ## Screenshots (optional)
 ## Screenshots
-![Console Results](console proof.jpg)
+![Console Results](console%20proof.jpg)
 
 ## Live Demo (if deployed)
-[View Live Demo]
+[View Live Demo](https://maune-tut.github.io/iyf-s10-week-04-maune-tut/)
